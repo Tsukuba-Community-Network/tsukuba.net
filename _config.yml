@@ -1,1 +1,6 @@
 theme: jekyll-theme-minimal
+plugins:
+- jekyll-remote-theme
+title: つくばコミュニティネットワーク
+description: 説明
+show_downloads: false
